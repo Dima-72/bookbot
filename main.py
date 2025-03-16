@@ -7,7 +7,7 @@ from stats import (
 
 
 def main():
-    if len(sys.argv) < 2:
+    if len(sys.argv) != 2:
         print("Usage: python3 main.py <path_to_book>")
         sys.exit(1)
     book_path = sys.argv[1]
@@ -38,4 +38,5 @@ def print_report(book_path, num_words, chars_sorted_list):
     print("============= END ===============")
 
 
-main()
+if __name__ == "__main__":
+    main()
