@@ -71,8 +71,10 @@ z: 235
     
     Open your terminal and run:
 
+    ```
     git clone https://github.com/Dima-72/bookbot.git 
     cd bookbot
+    ```
 
 
 2. **Add a `.txt` File** 
@@ -84,7 +86,9 @@ z: 235
 
     Make sure you have Python 3 installed, then run:
 
+    ```
     python main.py
+    ```
 
 
 
