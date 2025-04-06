@@ -66,22 +66,22 @@ z: 235
 
 1. **Clone the Repo**
     
-Open your terminal and run:
+    Open your terminal and run:
 
-git clone https://github.com/Dima-72/bookbot.git 
-cd bookbot
+    git clone https://github.com/Dima-72/bookbot.git 
+    cd bookbot
 
 
 2. **Add a `.txt` File** 
 
-Place your desired `.txt` file inside the `books/` directory.  
-You can use `books/frankenstein.txt` as an example.
+    Place your desired `.txt` file inside the `books/` directory.  
+    You can use `books/frankenstein.txt` as an example.
 
 3. **Run the Script**
 
-Make sure you have Python 3 installed, then run:
+    Make sure you have Python 3 installed, then run:
 
-python main.py
+    python main.py
 
 
 
