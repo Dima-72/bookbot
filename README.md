@@ -14,6 +14,7 @@ bookbot takes a `.txt` file (like a novel), analyzes its contents, and outputs:
 
 ### Example Output
 
+```
 ============ BOOKBOT ============
 Analyzing book found at books/frankenstein.txt...
 ----------- Word Count ----------
@@ -51,6 +52,8 @@ z: 235
 ë: 2
 ô: 1
 ============= END ===============
+```
+
 
 
 ---
